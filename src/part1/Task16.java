@@ -3,9 +3,7 @@
  * Написать программу, которая проверяет, содержит ли заданная строка заданную подстроку.
  */
 
-package Part1;
-
-import java.util.Arrays;
+package part1;
 
 public class Task16 {
     public static void main(String[] args) {

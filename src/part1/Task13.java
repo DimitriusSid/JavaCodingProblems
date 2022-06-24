@@ -4,7 +4,7 @@
  */
 
 
-package Part1;
+package part1;
 
 import java.util.regex.Pattern;
 

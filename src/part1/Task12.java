@@ -3,7 +3,7 @@
  * Написать программу, которая удаляет повторяющиеся символы из заданной строки
  */
 
-package Part1;
+package part1;
 
 import java.util.Arrays;
 import java.util.HashSet;

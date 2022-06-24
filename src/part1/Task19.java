@@ -3,7 +3,7 @@
  * Написать программу, которая объявляет многострочные строковые литералы или текстовые блоки
  */
 
-package Part1;
+package part1;
 
 public class Task19 {
     public static void main(String[] args) {

@@ -3,7 +3,7 @@
  * Написать программу, которая сортирует заданный массив по длине строк
  */
 
-package Part1;
+package part1;
 
 import java.util.Arrays;
 import java.util.Comparator;

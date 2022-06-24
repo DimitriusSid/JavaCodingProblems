@@ -3,7 +3,7 @@
  * Написать программу, которая возвращает первый неповторяющийся (некратный) символ в заданной строке.
  */
 
-package Part1;
+package part1;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

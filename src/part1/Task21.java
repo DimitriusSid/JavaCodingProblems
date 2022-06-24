@@ -3,7 +3,7 @@
  * Написать программу, которая удаляет начальные и замыкающие пробелы заданной строки
  */
 
-package Part1;
+package part1;
 
 public class Task21 {
     public static void main(String[] args) {

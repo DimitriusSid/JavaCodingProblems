@@ -3,7 +3,7 @@
  * Написать программу, которая отыскивает наибольший общий префикс заданных строк
  */
 
-package Part1;
+package part1;
 
 public class Task22 {
     public static void main(String[] args) {

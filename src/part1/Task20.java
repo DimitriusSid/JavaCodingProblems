@@ -3,7 +3,7 @@
  * Написать программу, которая конкатенирует одну и ту же строку заданное число раз
  */
 
-package Part1;
+package part1;
 
 public class Task20 {
     public static void main(String[] args) {

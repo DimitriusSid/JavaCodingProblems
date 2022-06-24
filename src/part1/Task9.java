@@ -3,7 +3,7 @@
  * Написать программу, которая соединяет заданные строки с помощью заданного разделителя.
  */
 
-package Part1;
+package part1;
 
 import java.util.StringJoiner;
 

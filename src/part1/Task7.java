@@ -3,7 +3,7 @@
  * Написать программу, которая конвертирует заданный объект типа string (представляющий число) в значение типа int, long, float или double
  */
 
-package Part1;
+package part1;
 
 public class Task7 {
     public static void main(String[] args) {

@@ -3,7 +3,7 @@
  * Написать программу, которая подсчитывает число появлений заданной строки в другой заданной строке.
  */
 
-package Part1;
+package part1;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

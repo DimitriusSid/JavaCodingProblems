@@ -4,7 +4,7 @@
  */
 
 
-package Part1;
+package part1;
 
 public class Task4 {
     public static void main(String[] args) {

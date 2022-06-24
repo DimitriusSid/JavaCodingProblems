@@ -3,7 +3,7 @@
  * Написать программу, которая выясняет, является ли данная строка палиндромом или нет.
  */
 
-package Part1;
+package part1;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

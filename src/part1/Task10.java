@@ -3,7 +3,7 @@
  * Написать программу, которая генерирует все перестановки заданной строки.
  */
 
-package Part1;
+package part1;
 
 import java.util.HashSet;
 import java.util.Set;

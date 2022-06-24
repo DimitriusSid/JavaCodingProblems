@@ -4,10 +4,9 @@
  * Сделать это для английского языка, который имеет пять гласных (а, е, i, o, u)
  */
 
-package Part1;
+package part1;
 
 import java.util.*;
-import java.util.function.IntPredicate;
 
 public class Task5 {
 
